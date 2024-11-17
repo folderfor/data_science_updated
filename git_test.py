@@ -1,0 +1,3 @@
+def qwe():
+    print('qwe')
+
