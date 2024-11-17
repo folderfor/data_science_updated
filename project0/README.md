@@ -11,7 +11,7 @@
 
 
 ### 3.Какими данными оперируем:
-
+(https://colab.research.google.com/github/folderfor/data_science_projects/blob/main/project0/%22baseline%22.ipynb)
 
 
 ### 4.Этапы работы
