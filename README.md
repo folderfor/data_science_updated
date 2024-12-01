@@ -5,4 +5,4 @@
 
 * [Проект 1. Основные причины оттока клиентов банка](https://github.com/folderfor/data_science_projects/tree/main/project1)
 
-
+* [Проект 2. Анализ резюме из HeadHunter](https://github.com/folderfor/data_science_updated/tree/master/project2)
