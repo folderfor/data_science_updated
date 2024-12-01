@@ -9,5 +9,5 @@
 3. Разведывательный анализ
 4. Очистка данных
 
-файл проекта https://github.com/folderfor/data_science_updated/tree/master/project2/Project_HH.ipynb \
-Файл с исходными данными по которым происходит анализ вы можете скачать (https://drive.google.com/file/d/1FJBOIlGSWSrYiGZY_OJSahsEcbEJMvq0/view?usp=drive_link)
+файл проекта (https://github.com/folderfor/data_science_updated/tree/master/project2/Project_HH.ipynb) \
+Файл с исходными данными по которым происходит анализ (https://drive.google.com/file/d/1FJBOIlGSWSrYiGZY_OJSahsEcbEJMvq0/view?usp=drive_link)
