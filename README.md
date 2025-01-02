@@ -7,4 +7,4 @@
 
 * [Проект 2. Анализ резюме из HeadHunter](https://github.com/folderfor/data_science_updated/tree/master/project2)
 
-* [Проект 3.  Анализ_вакансий_из_HeadHunter](https://github.com/folderfor/data_science_updated/tree/master/project3)
+* [Проект 3.  Анализ вакансий из HeadHunter](https://github.com/folderfor/data_science_updated/tree/master/project3)
